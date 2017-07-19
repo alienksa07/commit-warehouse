@@ -1,0 +1,6 @@
+ee0a4e90018fbd0e1a3711738b89cfdc6007357f2a5b4f238a9426b02b57fd68 *ubuntu-artful-core-cloudimg-amd64-root.tar.gz
+943f6894e09a9efd2ce5ff8847bf8a9b4548cfe5b4942200dc828ef255fe451d *ubuntu-artful-core-cloudimg-arm64-root.tar.gz
+edba8180aea04fa580aef22fd3abfd30b16aac621a196fc44fff7d2dc064c32f *ubuntu-artful-core-cloudimg-armhf-root.tar.gz
+64d5c95be388b315289b0fdf960cde5de15d057bb3beb57445abee58341a4476 *ubuntu-artful-core-cloudimg-i386-root.tar.gz
+281c901ee90240ae5e9342484dcb3e58e124fc7e614391a090bec84d345f0dba *ubuntu-artful-core-cloudimg-ppc64el-root.tar.gz
+79c2d057e23e77b33354e8fa89613cb8bbf1e7ce87189c4bde5c4202f214b692 *ubuntu-artful-core-cloudimg-s390x-root.tar.gz
