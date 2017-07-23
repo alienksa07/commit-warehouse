@@ -1,0 +1,6 @@
+deb http://deb.debian.org/debian oldoldstable main
+deb-src http://deb.debian.org/debian oldoldstable main
+deb http://deb.debian.org/debian oldoldstable-updates main
+deb-src http://deb.debian.org/debian oldoldstable-updates main
+deb http://security.debian.org oldoldstable/updates main
+deb-src http://security.debian.org oldoldstable/updates main
