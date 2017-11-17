@@ -1,0 +1,6 @@
+6f90766b4d6f0e96edd00c0a60e34f57 *ubuntu-bionic-core-cloudimg-amd64-root.tar.gz
+404e9c800b04f5fa942a7b244b91bfdb *ubuntu-bionic-core-cloudimg-arm64-root.tar.gz
+ab53d264114ea6f6fb7fdaf01ddeed08 *ubuntu-bionic-core-cloudimg-armhf-root.tar.gz
+e7b79dcaddd446fe6db32fa94e6a3f25 *ubuntu-bionic-core-cloudimg-i386-root.tar.gz
+2988fd655ed78b5f7fe186ed41cf128d *ubuntu-bionic-core-cloudimg-ppc64el-root.tar.gz
+a53fc78234b098afad03979a955a2f94 *ubuntu-bionic-core-cloudimg-s390x-root.tar.gz
