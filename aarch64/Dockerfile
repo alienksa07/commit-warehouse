@@ -6,3 +6,5 @@ MAINTAINER \
 
 ADD alt-sisyphus-aarch64-20180730.tar.xz /
 
+# overwrite this with 'CMD []' in a dependent Dockerfile
+CMD ["/bin/bash"]
