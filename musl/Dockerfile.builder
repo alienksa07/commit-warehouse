@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM arm64v8/alpine:3.7
 
 RUN apk add --no-cache \
 		bzip2 \
